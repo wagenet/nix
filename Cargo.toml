@@ -1,6 +1,6 @@
 [package]
 
-name        = "nix"
+name        = "nix_old"
 description = "Rust friendly bindings to *nix APIs"
 version     = "0.4.3"
 authors     = ["Carl Lerche <me@carllerche.com>"]
